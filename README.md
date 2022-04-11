@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Her02N0one
-- 👀 I’m interested in Python, Minecraft modding
+- 👀 I’m interested in Game Development, Data Science, and other random things.
 - 🌱 I’m currently learning a little bit of everything
-- 💞️ I’m looking to collaborate on Mods
+- 💞️ I’m looking to collaborate on Minecraft Modding
 - 📫 How to reach me Twitter:@DevFroggy or Discord:Ayden#1229
 
 <!---
